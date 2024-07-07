@@ -1,3 +1,9 @@
+"""
+election_scraper_engeto.py
+author: Veronika Obůrková
+email: oburkova.veronika@gmail.com
+discord: veronika007
+"""
 import csv
 from requests import get
 from bs4 import BeautifulSoup 
